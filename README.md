@@ -2,7 +2,7 @@
 
 光锥之内，即是命运
 
-**Java**、**Python**、**泛网络技术爱好者**
+**Coder（Java、Python）**、**网络规划设计师**、**泛网络技术爱好者**
 
 [![Profile Views](https://komarev.com/ghpvc/?username=YYJeffrey)](https://github.com/YYJeffrey)
 
